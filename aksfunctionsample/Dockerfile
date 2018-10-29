@@ -11,5 +11,7 @@ ENV AzureWebJobsScriptRoot=/home/site/wwwroot
 ENV AzureWebJobsStorage="{BLOB_STORAGE_CONNECTION_STRING}"
 ENV AzureBlobStorage="{BLOB_STORAGE_CONNECTION_STRING_OF_CONTAINER_HAVING_TRIGGER}"
 ENV AzureEventHubConnectionString="{EVENT_HUB_CONNECTION_STRING}"
+ENV TestCosmonDBConnection="{COSMOS_DB_CONNECTION_STRING}"
+ENV AzureSignalRConnectionString="{AZURE_SIGNALR_CONNECTION_STRING}"
 
 COPY --from=installer-env ["/home/site/wwwroot", "/home/site/wwwroot"]
