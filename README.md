@@ -8,7 +8,7 @@ Debug locally in Visual Studio Code
 Deploy Azure Functions to Azure Kubernetes Service
 Dev tools used to develop these components are Visual Studio Code for macOS, Docker, AKS Dashboard and kubectl.
 
-You can read more at https://blogs.msdn.microsoft.com/atverma/2018/09/26/azure-functions-2-0-create-debug-and-deploy-to-azure-kubernetes-service-aks/
+You can read more at https://www.appdevmusings.com/azure-functions-2-0-create-debug-and-deploy-to-azure-kubernetes-service-aks/
 
 
 # Azure Functions 2.0: Create Function App from Docker Image (Functions triggered by Cosmos DB, Blob storage, Event Hub and SignalR service bindings)
@@ -19,4 +19,4 @@ This is second part of the series on developing and deploying Azure Functions 2.
 . Create Function App from Docker Image in Azure Portal
 . Deploy functions to Azure Kubernetes Service from VS Code
 
-You can read more at https://blogs.msdn.microsoft.com/atverma/2018/10/29/azure-functions-2-0-create-function-app-from-docker-image-functions-triggered-by-cosmos-db-blob-storage-event-hub-and-signalr-service-bindings/
+You can read more at https://www.appdevmusings.com/azure-functions-2-0-create-function-app-from-docker-image-functions-triggered-by-cosmos-db-blob-storage-event-hub-and-signalr-service-bindings/
